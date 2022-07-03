@@ -1,10 +1,6 @@
 # node-图片爬虫
 
-
-
 请求接口路径：https://www.jianshu.com/p/fb1d1ad58a0b
-
-
 
 实现效果：
 
@@ -20,8 +16,6 @@ node index.js
 
 会自动创建文件夹，然后下载文件下来
 
-
-
 ## 项目结构 tree
 
 ```js
@@ -30,8 +24,6 @@ node index.js
 ├───downloadZHIHUPic ---下载知乎的，已弃用
 └───index ---主入口
 ```
-
-
 
 ## 搭建过程
 
@@ -56,14 +48,15 @@ download(file, filePath).then(() => {
 });
 ```
 
-
-
 完整代码请查看 github 仓库：
 
 [downloadpic](https://github.com/huahuahuahuahuahua/downloadpic)
 
 欢迎访问我的其他项目：
 [md 文件转换为 pdf](https://juejin.cn/post/7115433895041957925)
+
 [GitBook Introduction 教程](https://juejin.cn/post/7115072679127810079)
+
 [使用 mdx 开发一个酷炫的 ppt](https://juejin.cn/post/7100230419013959710)
+
 [学习用 ts+gulp+rollup 写一个工具库](https://juejin.cn/post/7083911355509506055)
