@@ -1,0 +1,53 @@
+[
+  {
+    "beautyUrl": "http://service.picasso.adesk.com/v1/vertical/category/4e4d610cdf714d2966000000/vertical",
+    "params": {
+      "limit": 30,
+      "first": 0,
+      "order": "sex"
+    },
+    "dir": "beautyPic",
+    "type": "beauty"
+  },
+  {
+    "beautyUrl": "http://service.picasso.adesk.com/v1/vertical/category/4e4d610cdf714d2966000006/vertical",
+    "params": {
+      "limit": 30,
+      "first": 0,
+      "order": "sex"
+    },
+    "dir": "manPic",
+    "type": "man"
+  },
+  {
+    "beautyUrl": "http://service.picasso.adesk.com/v1/vertical/category/4fb47a195ba1c60ca5000222/vertical",
+    "params": {
+      "limit": 30,
+      "first": 0,
+      "order": "sex"
+    },
+    "dir": "creativePic",
+    "type": "creative"
+  },
+  {
+    "beautyUrl": "http://service.picasso.adesk.com/v1/vertical/category/4fb479f75ba1c65561000027/vertical",
+    "params": {
+      "limit": 30,
+      "first": 0,
+      "order": "sex"
+    },
+    "dir": "visionPic",
+    "type": "vision"
+  },
+  {
+    "beautyUrl": "http://service.picasso.adesk.com/v1/wallpaper/category/56a221c969401b3f4aa6700a/wallpaper",
+    "params": {
+      "limit": 30,
+      "audit": "false",
+      "first": 1,
+      "order": "new"
+    },
+    "dir": "wallpaperGirlPic",
+    "type": "wallpaperGirl"
+  }
+]
